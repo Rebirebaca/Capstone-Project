@@ -1,5 +1,4 @@
 # Capstone-Project
-Youtube Data Harvesting and Warehousing. using SQL and Streamlit.
 
 YouTube-Data-Harvesting-and-Warehousing-using-SQL-and-Streamlit
 Introduction:
@@ -7,6 +6,8 @@ Introduction:
 * Retrieve YouTube channel data with the help of  YouTube API.
 * Stored the data in SQL database(warehousing),with the help of XAMPP control panel.
 * enabling querying of the data using SQL data within the Streamlit.
+
+  
 Domain : Social Media
 Skills Takeaway :
 Python scripting, Data Collection, Streamlit, API integration, Data Management using SQL.
